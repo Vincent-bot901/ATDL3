@@ -44,7 +44,7 @@ Run the full pipeline (model training followed by both experiment suites):
 
 ```bash
 
-python main.py
+python 2d_final.py
 
 ```
 
@@ -54,7 +54,7 @@ python main.py
 
 
 
-The script executes sequentially from `main.py`:
+The script executes sequentially from `2d_final.py`:
 
 
 
